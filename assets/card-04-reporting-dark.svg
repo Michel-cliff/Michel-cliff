@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="330" viewBox="0 0 560 330" role="img" aria-label="Reporting Automatisé">
+<style>
+.mono{font-family:'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}.disp{font-family:'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;font-weight:700}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes on{to{opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes scanY{0%{transform:translateY(0)}50%{transform:translateY(34px)}100%{transform:translateY(0)}}
+@keyframes grow{0%{transform:scaleY(.15)}60%,100%{transform:scaleY(1)}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes flow{from{stroke-dashoffset:24}to{stroke-dashoffset:0}}
+@keyframes ping{0%{transform:scale(.4);opacity:1}100%{transform:scale(1.6);opacity:0}}
+@keyframes eye{0%,90%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+@keyframes glitch{0%,90%,100%{transform:none;opacity:1}91%{transform:translate(4px,0);opacity:.6}93%{transform:translate(-4px,1px)}95%{transform:translate(2px,-1px);opacity:.8}97%{transform:none}}
+.rv{opacity:0;animation:in .7s cubic-bezier(.2,.7,.2,1) forwards}
+.px{opacity:0;animation:on .01s steps(1) forwards}
+.cur{animation:blink 1s steps(1) infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<rect width="560" height="330" fill="#0B0B0A"/>
+<rect x="0.5" y="0.5" width="559" height="329" fill="none" stroke="#2A2A27" stroke-width="1"/>
+<text class="mono" x="28" y="44" font-size="14" font-weight="700" fill="#D4A03A">04 / 05</text>
+<text class="mono" x="118" y="44" font-size="13" fill="#A3A19A">DISPLAY INTERACTIVE</text>
+<g transform="translate(468,22)">
+<line x1="4" y1="58" x2="60" y2="58" stroke="#D4A03A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect x="8" y="16" width="9" height="40" fill="#D4A03A" style="transform-origin:12.5px 56px;animation:grow 2.4s cubic-bezier(.2,.7,.2,1) 0s infinite"/><rect x="21" y="25" width="9" height="31" fill="#D4A03A" style="transform-origin:25.5px 56px;animation:grow 2.4s cubic-bezier(.2,.7,.2,1) 0.15s infinite"/><rect x="34" y="34" width="9" height="22" fill="#D4A03A" style="transform-origin:38.5px 56px;animation:grow 2.4s cubic-bezier(.2,.7,.2,1) 0.3s infinite"/><rect x="47" y="42" width="9" height="14" fill="#D4A03A" style="transform-origin:51.5px 56px;animation:grow 2.4s cubic-bezier(.2,.7,.2,1) 0.45s infinite"/>
+<g style="animation:pulse 1.2s infinite"><path d="M46 10 L58 24" stroke="#E8461E" stroke-width="3" stroke-linecap="round"/><path d="M50 25 H58 V17" stroke="#E8461E" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<text class="disp" x="26" y="128" font-size="34" fill="#FFFFFF">REPORTING AUTOMATISÉ</text>
+<text class="disp" x="26" y="178" font-size="44" fill="#E8461E">-40 %</text><text class="mono" x="168" y="172" font-size="14" fill="#A3A19A">de temps de reporting</text>
+<text x="28" y="212" font-family="'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#FFFFFF">Automatisations et solutions IA métier</text>
+<text x="28" y="238" font-family="'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#FFFFFF">pour un compte client international.</text>
+<rect x="28" y="274" width="71" height="28" fill="#D4A03A"/><text class="mono" x="39" y="293" font-size="13" font-weight="700" fill="#0B0B0A">Claude</text><rect x="107" y="274" width="128" height="28" fill="#D4A03A"/><text class="mono" x="118" y="293" font-size="13" font-weight="700" fill="#0B0B0A">Elasticsearch</text><rect x="243" y="274" width="71" height="28" fill="#E8461E"/><text class="mono" x="254" y="293" font-size="13" font-weight="700" fill="#0B0B0A">Kanban</text>
+</svg>

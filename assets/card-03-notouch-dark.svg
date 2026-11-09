@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="330" viewBox="0 0 560 330" role="img" aria-label="Notouch">
+<style>
+.mono{font-family:'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}.disp{font-family:'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;font-weight:700}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes on{to{opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes scanY{0%{transform:translateY(0)}50%{transform:translateY(34px)}100%{transform:translateY(0)}}
+@keyframes grow{0%{transform:scaleY(.15)}60%,100%{transform:scaleY(1)}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes flow{from{stroke-dashoffset:24}to{stroke-dashoffset:0}}
+@keyframes ping{0%{transform:scale(.4);opacity:1}100%{transform:scale(1.6);opacity:0}}
+@keyframes eye{0%,90%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+@keyframes glitch{0%,90%,100%{transform:none;opacity:1}91%{transform:translate(4px,0);opacity:.6}93%{transform:translate(-4px,1px)}95%{transform:translate(2px,-1px);opacity:.8}97%{transform:none}}
+.rv{opacity:0;animation:in .7s cubic-bezier(.2,.7,.2,1) forwards}
+.px{opacity:0;animation:on .01s steps(1) forwards}
+.cur{animation:blink 1s steps(1) infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<rect width="560" height="330" fill="#0B0B0A"/>
+<rect x="0.5" y="0.5" width="559" height="329" fill="none" stroke="#2A2A27" stroke-width="1"/>
+<text class="mono" x="28" y="44" font-size="14" font-weight="700" fill="#D4A03A">03 / 05</text>
+<text class="mono" x="118" y="44" font-size="13" fill="#A3A19A">CHROME WEB STORE →</text>
+<g transform="translate(468,22)">
+<path d="M4 16 V4 H16 M48 4 H60 V16 M60 48 V60 H48 M16 60 H4 V48" stroke="#D4A03A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<g style="transform-origin:32px 40px;animation:bob 1.6s ease-in-out infinite">
+<rect x="20" y="32" width="24" height="18" rx="6" stroke="#D4A03A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<line x1="23" y1="32" x2="23" y2="18" stroke="#D4A03A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><line x1="29" y1="32" x2="29" y2="13" stroke="#D4A03A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><line x1="35" y1="32" x2="35" y2="14" stroke="#D4A03A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><line x1="41" y1="32" x2="41" y2="19" stroke="#D4A03A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<line x1="20" y1="40" x2="13" y2="31" stroke="#D4A03A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+<line x1="8" y1="14" x2="56" y2="14" stroke="#E8461E" stroke-width="2.5" style="animation:scanY 2.2s ease-in-out infinite"/></g>
+<text class="disp" x="26" y="128" font-size="34" fill="#FFFFFF">NOTOUCH</text>
+<text x="28" y="166" font-family="'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#FFFFFF">Extension Chrome qui pilote YouTube et Netflix</text>
+<text x="28" y="192" font-family="'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#FFFFFF">par gestes, en analysant l'image en local</text>
+<text x="28" y="218" font-family="'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#FFFFFF">sur la machine.</text>
+<rect x="28" y="274" width="153" height="28" fill="#D4A03A"/><text class="mono" x="39" y="293" font-size="13" font-weight="700" fill="#0B0B0A">Extension Chrome</text><rect x="189" y="274" width="128" height="28" fill="#D4A03A"/><text class="mono" x="200" y="293" font-size="13" font-weight="700" fill="#0B0B0A">Vision locale</text>
+</svg>

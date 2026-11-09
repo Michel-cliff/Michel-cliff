@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="84" viewBox="0 0 1140 84" role="img" aria-label="Stack">
+<style>
+.mono{font-family:'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}.disp{font-family:'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;font-weight:700}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes on{to{opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes scanY{0%{transform:translateY(0)}50%{transform:translateY(34px)}100%{transform:translateY(0)}}
+@keyframes grow{0%{transform:scaleY(.15)}60%,100%{transform:scaleY(1)}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes flow{from{stroke-dashoffset:24}to{stroke-dashoffset:0}}
+@keyframes ping{0%{transform:scale(.4);opacity:1}100%{transform:scale(1.6);opacity:0}}
+@keyframes eye{0%,90%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+@keyframes glitch{0%,90%,100%{transform:none;opacity:1}91%{transform:translate(4px,0);opacity:.6}93%{transform:translate(-4px,1px)}95%{transform:translate(2px,-1px);opacity:.8}97%{transform:none}}
+.rv{opacity:0;animation:in .7s cubic-bezier(.2,.7,.2,1) forwards}
+.px{opacity:0;animation:on .01s steps(1) forwards}
+.cur{animation:blink 1s steps(1) infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<rect width="1140" height="84" fill="#FFFFFF"/>
+<g transform="translate(6,10)">
+<g style="animation:bob 1.8s ease-in-out infinite"><path d="M32 6 L58 18 L32 30 L6 18 Z" stroke="#946614" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+<g style="animation:bob 1.8s ease-in-out .2s infinite"><path d="M6 30 L32 42 L58 30" stroke="#946614" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+<g style="animation:bob 1.8s ease-in-out .4s infinite"><path d="M6 42 L32 54 L58 42" stroke="#C2380F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g></g>
+<text class="mono" x="96" y="56" font-size="28" font-weight="700" fill="#C2380F" letter-spacing="2">// STACK</text>
+<line x1="265.5" y1="47" x2="1140" y2="47" stroke="#946614" stroke-width="2" stroke-dasharray="6 6" style="animation:flow 1.2s linear infinite"/>
+</svg>

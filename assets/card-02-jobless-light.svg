@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="330" viewBox="0 0 560 330" role="img" aria-label="Jobless.Fr">
+<style>
+.mono{font-family:'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}.disp{font-family:'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;font-weight:700}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes on{to{opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes scanY{0%{transform:translateY(0)}50%{transform:translateY(34px)}100%{transform:translateY(0)}}
+@keyframes grow{0%{transform:scaleY(.15)}60%,100%{transform:scaleY(1)}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes flow{from{stroke-dashoffset:24}to{stroke-dashoffset:0}}
+@keyframes ping{0%{transform:scale(.4);opacity:1}100%{transform:scale(1.6);opacity:0}}
+@keyframes eye{0%,90%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+@keyframes glitch{0%,90%,100%{transform:none;opacity:1}91%{transform:translate(4px,0);opacity:.6}93%{transform:translate(-4px,1px)}95%{transform:translate(2px,-1px);opacity:.8}97%{transform:none}}
+.rv{opacity:0;animation:in .7s cubic-bezier(.2,.7,.2,1) forwards}
+.px{opacity:0;animation:on .01s steps(1) forwards}
+.cur{animation:blink 1s steps(1) infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<rect width="560" height="330" fill="#FFFFFF"/>
+<rect x="0.5" y="0.5" width="559" height="329" fill="none" stroke="#D1D9E0" stroke-width="1"/>
+<text class="mono" x="28" y="44" font-size="14" font-weight="700" fill="#946614">02 / 05</text>
+<text class="mono" x="118" y="44" font-size="13" fill="#59636E">EN LIGNE →</text>
+<g transform="translate(468,22)">
+<circle cx="32" cy="32" r="28" stroke="#946614" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><circle cx="32" cy="32" r="17" stroke="#946614" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity=".6"/><circle cx="32" cy="32" r="6" stroke="#946614" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity=".4"/>
+<g style="transform-origin:32px 32px;animation:spin 2.4s linear infinite"><line x1="32" y1="32" x2="32" y2="5" stroke="#946614" stroke-width="3" stroke-linecap="round"/><path d="M32 32 L32 5 A27 27 0 0 1 51 13 Z" fill="#946614" opacity=".25"/></g>
+<circle cx="45" cy="22" r="4" fill="#C2380F" style="animation:pulse 1.2s infinite"/>
+<circle cx="45" cy="22" r="4" fill="none" stroke="#C2380F" stroke-width="2" style="transform-origin:45px 22px;animation:ping 1.6s ease-out infinite"/></g>
+<text class="disp" x="26" y="128" font-size="34" fill="#1F2328">JOBLESS.FR</text>
+<text x="28" y="166" font-family="'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#1F2328">Copilote de recherche d'emploi propulsé par l'IA :</text>
+<text x="28" y="192" font-family="'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#1F2328">ciblage d'entreprises et de contacts,</text>
+<text x="28" y="218" font-family="'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#1F2328">préparation des candidatures. Fait en solo.</text>
+<rect x="28" y="274" width="38" height="28" fill="#946614"/><text class="mono" x="39" y="293" font-size="13" font-weight="700" fill="#FFFFFF">IA</text><rect x="74" y="274" width="79" height="28" fill="#2F62D9"/><text class="mono" x="85" y="293" font-size="13" font-weight="700" fill="#FFFFFF">Web app</text>
+</svg>
