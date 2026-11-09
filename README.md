@@ -29,17 +29,15 @@ Je conçois des agents IA et des automatisations qui répondent à de vrais beso
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-stack-dark.svg"><img alt="Stack" src="./assets/section-stack-light.svg" width="100%"></picture>
 
-**💻 Langages et frameworks**
-
-![Python](https://img.shields.io/badge/Python-2F62D9?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-2F62D9?style=for-the-badge) ![React](https://img.shields.io/badge/React-2F62D9?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-2F62D9?style=for-the-badge) ![C](https://img.shields.io/badge/C-2F62D9?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-2F62D9?style=for-the-badge)
-
-**🛠️ Outils**
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-946614?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP-946614?style=for-the-badge) ![Jira](https://img.shields.io/badge/Jira-946614?style=for-the-badge) ![Confluence](https://img.shields.io/badge/Confluence-946614?style=for-the-badge) ![Notion](https://img.shields.io/badge/Notion-946614?style=for-the-badge) ![Asana](https://img.shields.io/badge/Asana-946614?style=for-the-badge) ![Trello](https://img.shields.io/badge/Trello-946614?style=for-the-badge) ![Miro](https://img.shields.io/badge/Miro-946614?style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-946614?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-946614?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-946614?style=for-the-badge) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-946614?style=for-the-badge) ![Supabase](https://img.shields.io/badge/Supabase-946614?style=for-the-badge) ![GCP](https://img.shields.io/badge/GCP-946614?style=for-the-badge) ![AWS](https://img.shields.io/badge/AWS-946614?style=for-the-badge)
-
-**🧭 Gestion de projet**
-
-![Scrum](https://img.shields.io/badge/Scrum-C2380F?style=for-the-badge) ![Kanban](https://img.shields.io/badge/Kanban-C2380F?style=for-the-badge) ![Lean](https://img.shields.io/badge/Lean-C2380F?style=for-the-badge) ![MoSCoW](https://img.shields.io/badge/MoSCoW-C2380F?style=for-the-badge) ![RAID](https://img.shields.io/badge/RAID-C2380F?style=for-the-badge) ![Design thinking](https://img.shields.io/badge/Design%20thinking-C2380F?style=for-the-badge)
+<table>
+<tr>
+<td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-langages-dark.svg"><img alt="Langages et frameworks : Python, JavaScript, React, FastAPI, C, C#" src="./assets/stack-langages-light.svg" width="100%"></picture></td>
+<td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-gestion-dark.svg"><img alt="Gestion de projet : Scrum, Kanban, Lean, MoSCoW, RAID, Design thinking" src="./assets/stack-gestion-light.svg" width="100%"></picture></td>
+</tr>
+<tr>
+<td colspan="2"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-outils-dark.svg"><img alt="Outils : Claude Code, MCP, Jira, Confluence, Notion, Asana, Trello, Miro, Figma, Git, Docker, Elasticsearch, Supabase, GCP, AWS" src="./assets/stack-outils-light.svg" width="100%"></picture></td>
+</tr>
+</table>
 
 <br>
 
