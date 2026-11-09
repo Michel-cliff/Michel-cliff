@@ -20,8 +20,7 @@
 </g>
 <g class="rv d3"><text class="disp" x="44" y="190" font-size="80" fill="#1F2328" letter-spacing="-2">MICHEL-CLIFF</text>
 <text class="disp" x="44" y="268" font-size="80" fill="#1F2328" letter-spacing="-2">OGOUDEDJI</text></g>
-<g class="rv d4"><text class="mono" x="48" y="320" font-size="21" fill="#946614" letter-spacing="1">// INGÉNIEUR IA &amp; AUTOMATISATION</text>
-<rect class="cur" x="492" y="303" width="11" height="20" fill="#946614"/></g>
+<g class="rv d4"><text class="mono" x="48" y="320" font-size="21" fill="#946614" letter-spacing="1">// INGÉNIEUR IA &amp; AUTOMATISATION<tspan class="cur" dx="8">█</tspan></text></g>
 <g class="rv d5">
 <rect x="800" y="128" width="352" height="150" fill="#1F2328"/>
 <text class="disp" x="826" y="232" font-size="96" fill="#FFFFFF">3+</text>

@@ -2,6 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <img alt="Michel-Cliff Ogoudedji · Ingénieur IA & automatisation · 3+ ans d'expérience en dev et management de projet" src="./assets/banner-light.svg" width="100%">
 </picture>
+<br><br>
 
 Je conçois des agents IA et des automatisations qui répondent à de vrais besoins métier.
 **Ma créativité, ma vision produit et mon sens de l'initiative font de moi un candidat à part.**
@@ -12,15 +13,15 @@ Je conçois des agents IA et des automatisations qui répondent à de vrais beso
 
 ## `//` Projets
 
-### 01 · [PM Kinator](https://github.com/Michel-cliff/pm-kinator-skill) ↗
+### 01 · [PM Kinator](https://github.com/Michel-cliff/pm-kinator-skill)
 Skill Claude open source qui joue l'assistant PM senior : triage des mails, tickets priorisés en MoSCoW, risques roadmap, plan du matin.
 
 ![Claude](https://img.shields.io/badge/Claude-946614?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-946614?style=flat-square) ![MoSCoW](https://img.shields.io/badge/MoSCoW-C2380F?style=flat-square)
 
-### 02 · [jobless.fr](https://jobless.fr) ↗
+### 02 · [jobless.fr](https://jobless.fr)
 Copilote de recherche d'emploi propulsé par l'IA : ciblage d'entreprises et de contacts, préparation des candidatures. Conçu, développé et mis en ligne en solo.
 
-### 03 · [Notouch](https://chromewebstore.google.com/detail/notouch/iffdclodngepkpjbpaeljjfpcdjiklof) ↗
+### 03 · [Notouch](https://chromewebstore.google.com/detail/notouch/iffdclodngepkpjbpaeljjfpcdjiklof)
 Extension Chrome qui pilote YouTube et Netflix par gestes, en analysant l'image en local sur la machine.
 
 ![Extension Chrome](https://img.shields.io/badge/Extension%20Chrome-946614?style=flat-square)
