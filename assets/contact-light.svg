@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Un poste en automatisation ou management ? Parlons-en.">
+<style>.mono{font-family:'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}.disp{font-family:'Space Grotesk', 'Helvetica Neue', Arial, sans-serif;font-weight:700}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(10px)}}.arr{animation:nudge 1.6s ease-in-out infinite}
+@media (prefers-reduced-motion: reduce){.arr{animation:none}}</style>
+<rect width="1200" height="190" fill="#FFFFFF"/>
+<rect x="0.5" y="0.5" width="1199" height="189" fill="none" stroke="#D1D9E0"/>
+<text class="mono" x="48" y="48" font-size="15" font-weight="700" fill="#C2380F" letter-spacing="1">// CONTACT</text>
+<text class="disp" x="44" y="108" font-size="38" fill="#1F2328">UN POSTE EN AUTOMATISATION OU MANAGEMENT ?</text>
+<text class="disp" x="44" y="158" font-size="38" fill="#C2380F">PARLONS-EN.</text>
+<g class="arr"><text class="disp" x="310" y="158" font-size="38" fill="#946614">→</text></g>
+</svg>

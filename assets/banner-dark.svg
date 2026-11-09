@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="Michel-Cliff Ogoudedji, ingénieur IA et automatisation, 3+ ans d'expérience en dev et management de projet">
+<style>
+.mono{font-family:'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}.disp{font-family:'Space Grotesk', 'Helvetica Neue', Arial, sans-serif;font-weight:700}
+.rv{opacity:0;animation:in .7s cubic-bezier(.2,.7,.2,1) forwards}
+.ok{opacity:0;animation:ok .01s steps(1) forwards}
+.d1{animation-delay:.2s}.d2{animation-delay:.7s}.d3{animation-delay:1.1s}.d4{animation-delay:1.6s}.d5{animation-delay:2.1s}.d6{animation-delay:2.6s}.d7{animation-delay:3s}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes ok{to{opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes mq{from{transform:translateX(0)}to{transform:translateX(-1500px)}}
+.cur{animation:blink 1s steps(1) infinite}
+.mq{animation:mq 30s linear infinite}
+@media (prefers-reduced-motion: reduce){.rv,.ok{opacity:1;animation:none}.mq,.cur{animation:none}}
+</style>
+<rect width="1200" height="470" fill="#0B0B0A"/>
+
+<g class="mono" font-size="17" fill="#A3A19A">
+<g class="rv d1"><text x="48" y="58">&gt; expérience dev + gestion de projet ........</text><text class="ok d2" x="560" y="58" fill="#E8461E" font-weight="700">3+ ans</text></g>
+<g class="rv d2"><text x="48" y="88">&gt; statut : disponible en CDI ...............</text><text class="ok d3" x="560" y="88" fill="#E8461E" font-weight="700">actif</text></g>
+</g>
+<g class="rv d3"><text class="disp" x="44" y="190" font-size="80" fill="#FFFFFF" letter-spacing="-2">MICHEL-CLIFF</text>
+<text class="disp" x="44" y="268" font-size="80" fill="#FFFFFF" letter-spacing="-2">OGOUDEDJI</text></g>
+<g class="rv d4"><text class="mono" x="48" y="320" font-size="21" fill="#D4A03A" letter-spacing="1">// INGÉNIEUR IA &amp; AUTOMATISATION</text>
+<rect class="cur" x="492" y="303" width="11" height="20" fill="#D4A03A"/></g>
+<g class="rv d5">
+<rect x="800" y="128" width="352" height="150" fill="#FFFFFF"/>
+<text class="disp" x="826" y="232" font-size="96" fill="#0B0B0A">3+</text>
+<text class="mono" x="968" y="190" font-size="15" font-weight="700" fill="#0B0B0A">ANS D'EXPÉRIENCE</text>
+<text class="mono" x="968" y="214" font-size="15" font-weight="700" fill="#0B0B0A">DEV + MANAGEMENT</text>
+<text class="mono" x="968" y="238" font-size="15" font-weight="700" fill="#0B0B0A">DE PROJET</text>
+</g>
+<g class="rv d6">
+<rect x="0" y="372" width="1200" height="58" fill="#D4A03A"/>
+<g class="mq">
+<text class="disp" x="0" y="410" font-size="24" fill="#0B0B0A" textLength="1500" lengthAdjust="spacingAndGlyphs">AGENTS IA + AUTOMATISATION + VISION PRODUIT + PYTHON + CLAUDE + MCP + GESTION DE PROJET + EPITECH × ISC PARIS + </text>
+<text class="disp" x="1500" y="410" font-size="24" fill="#0B0B0A" textLength="1500" lengthAdjust="spacingAndGlyphs">AGENTS IA + AUTOMATISATION + VISION PRODUIT + PYTHON + CLAUDE + MCP + GESTION DE PROJET + EPITECH × ISC PARIS + </text>
+</g>
+</g>
+<text class="mono rv d7" x="48" y="455" font-size="13" fill="#A3A19A">Paris · Île-de-France · Epitech × ISC Paris</text>
+</svg>
