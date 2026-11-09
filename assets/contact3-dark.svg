@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Un poste en automatisation ou management ? Parlons-en.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="Un poste en automatisation ou management ? Parlons-en.">
 <style>
 .mono{font-family:'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}.disp{font-family:'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;font-weight:700}
 @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
@@ -18,11 +18,10 @@
 .px{opacity:0;animation:on .01s steps(1) forwards}
 .cur{animation:blink 1s steps(1) infinite}
 @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
-@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(10px)}}</style>
-<rect width="1200" height="190" fill="#0B0B0A"/>
-<rect x="0.5" y="0.5" width="1199" height="189" fill="none" stroke="#2A2A27"/>
-<text class="mono" x="48" y="48" font-size="15" font-weight="700" fill="#E8461E" letter-spacing="1">// CONTACT</text>
-<text class="disp" x="44" y="108" font-size="38" fill="#FFFFFF">UN POSTE EN AUTOMATISATION OU MANAGEMENT ?</text>
-<text class="disp" x="44" y="158" font-size="38" fill="#E8461E">PARLONS-EN.</text>
-<g style="animation:nudge 1.6s ease-in-out infinite"><text class="disp" x="310" y="158" font-size="38" fill="#D4A03A">→</text></g>
+</style>
+<rect width="1200" height="160" fill="#0B0B0A"/>
+<rect x="0" y="0" width="1200" height="2" fill="#FFFFFF"/>
+<text class="mono" x="2" y="44" font-size="15" font-weight="700" fill="#E8461E" letter-spacing="2">// CONTACT</text>
+<text class="disp" x="0" y="98" font-size="38" fill="#FFFFFF">UN POSTE EN AUTOMATISATION OU MANAGEMENT ?</text>
+<text class="disp" x="0" y="146" font-size="38" fill="#E8461E">PARLONS-EN.</text>
 </svg>

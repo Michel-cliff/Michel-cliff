@@ -1,5 +1,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner3-dark.svg"><img alt="Hello I am Cliff ! Michel-Cliff Ogoudedji, ingénieur IA et automatisation, 3 ans d'expérience en dev et management de projet" src="./assets/banner3-light.svg" width="100%"></picture>
 
+<p><a href="https://cliffiscurious.com"><b>cliffiscurious.com</b></a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/michel-cliff-ogoudedji"><b>LinkedIn</b></a></p>
+
 <br>
 
 Je conçois des agents IA et des automatisations qui répondent à de vrais besoins métier.
@@ -41,6 +43,6 @@ Je conçois des agents IA et des automatisations qui répondent à de vrais beso
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact2-dark.svg"><img alt="Un poste en automatisation ou management ? Parlons-en." src="./assets/contact2-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact3-dark.svg"><img alt="Un poste en automatisation ou management ? Parlons-en." src="./assets/contact3-light.svg" width="100%"></picture>
 
-[LinkedIn](https://linkedin.com/in/michel-cliff-ogoudedji) · [Portfolio](https://cliffiscurious.com)
+<p align="right"><a href="https://linkedin.com/in/michel-cliff-ogoudedji"><b>LinkedIn</b></a> &nbsp;·&nbsp; <a href="https://cliffiscurious.com"><b>cliffiscurious.com</b></a></p>
