@@ -25,8 +25,8 @@
 <g class="rv" style="animation-delay:.1s"><text x="48" y="56">&gt; dev + management de projet ..........</text><text x="490" y="56" fill="#E8461E" font-weight="700">3 ans d'expérience</text></g>
 <g class="rv" style="animation-delay:.45s"><text x="48" y="84">&gt; statut ...........................</text><text x="490" y="84" fill="#E8461E" font-weight="700">disponible en CDI</text></g>
 </g>
-<g class="rv" style="animation-delay:.9s"><text class="disp" x="44" y="190" font-size="86" fill="#FFFFFF" letter-spacing="-2">Hello,</text></g>
-<g class="rv" style="animation-delay:1.3s"><text class="disp" x="44" y="284" font-size="86" fill="#FFFFFF" letter-spacing="-2">I am <tspan class="gl" fill="#D4A03A">Cliff</tspan> <tspan fill="#E8461E">!</tspan></text></g>
+<text class="disp" x="44" y="190" font-size="80" fill="#FFFFFF" letter-spacing="-2">HELLO,</text>
+<text class="disp" x="44" y="278" font-size="80" fill="#FFFFFF" letter-spacing="-2">I AM CLIFF !</text>
 <g class="rv" style="animation-delay:2.3s"><text class="mono" x="48" y="334" font-size="21" fill="#D4A03A" letter-spacing="1">// MICHEL-CLIFF OGOUDEDJI · INGÉNIEUR IA &amp; AUTOMATISATION<tspan class="cur" dx="8">█</tspan></text></g>
 <g class="rv" style="animation-delay:2.6s">
 <rect x="840" y="122" width="312" height="150" fill="#FFFFFF"/>
