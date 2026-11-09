@@ -59,4 +59,4 @@ Automatisations et solutions IA sur des processus métier, pour un compte client
   <img alt="Un poste en automatisation ou management ? Parlons-en." src="./assets/contact-light.svg" width="100%">
 </picture>
 
-[LinkedIn](https://linkedin.com/in/michel-cliff-ogoudedji) · [Portfolio](https://cliffiscurious.com) · cliffogoudedji@gmail.com
+[LinkedIn](https://linkedin.com/in/michel-cliff-ogoudedji) · [Portfolio](https://cliffiscurious.com)
