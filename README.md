@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner2-dark.svg"><img alt="Hello I am Cliff ! Michel-Cliff Ogoudedji, ingénieur IA et automatisation, 3 ans d'expérience en dev et management de projet" src="./assets/banner2-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner3-dark.svg"><img alt="Hello I am Cliff ! Michel-Cliff Ogoudedji, ingénieur IA et automatisation, 3 ans d'expérience en dev et management de projet" src="./assets/banner3-light.svg" width="100%"></picture>
 
 <br>
 
