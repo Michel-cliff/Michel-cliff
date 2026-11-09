@@ -25,7 +25,7 @@
 <text class="mono" x="118" y="44" font-size="13" fill="#59636E">DISPLAY INTERACTIVE</text>
 <g transform="translate(468,22)">
 <line x1="4" y1="58" x2="60" y2="58" stroke="#946614" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect x="8" y="16" width="9" height="40" fill="#946614" style="transform-origin:12.5px 56px;animation:grow 2.4s cubic-bezier(.2,.7,.2,1) 0s infinite"/><rect x="21" y="25" width="9" height="31" fill="#946614" style="transform-origin:25.5px 56px;animation:grow 2.4s cubic-bezier(.2,.7,.2,1) 0.15s infinite"/><rect x="34" y="34" width="9" height="22" fill="#946614" style="transform-origin:38.5px 56px;animation:grow 2.4s cubic-bezier(.2,.7,.2,1) 0.3s infinite"/><rect x="47" y="42" width="9" height="14" fill="#946614" style="transform-origin:51.5px 56px;animation:grow 2.4s cubic-bezier(.2,.7,.2,1) 0.45s infinite"/>
-<g style="animation:pulse 1.2s infinite"><path d="M46 10 L58 24" stroke="#C2380F" stroke-width="3" stroke-linecap="round"/><path d="M50 25 H58 V17" stroke="#C2380F" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+</g>
 <text class="disp" x="26" y="128" font-size="34" fill="#1F2328">REPORTING AUTOMATISÉ</text>
 <text class="disp" x="26" y="178" font-size="44" fill="#C2380F">-40 %</text><text class="mono" x="168" y="172" font-size="14" fill="#59636E">de temps de reporting</text>
 <text x="28" y="212" font-family="'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#1F2328">Automatisations et solutions IA métier</text>

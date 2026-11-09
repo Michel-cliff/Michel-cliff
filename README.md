@@ -18,7 +18,7 @@ Je conçois des agents IA et des automatisations qui répondent à de vrais beso
 </tr>
 <tr>
 <td width="50%"><a href="https://chromewebstore.google.com/detail/notouch/iffdclodngepkpjbpaeljjfpcdjiklof"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-03-notouch-dark.svg"><img alt="Notouch : extension Chrome qui pilote YouTube et Netflix par gestes" src="./assets/card-03-notouch-light.svg" width="100%"></picture></a></td>
-<td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-04-reporting-dark.svg"><img alt="Reporting automatisé chez Display Interactive : -40 % de temps de reporting" src="./assets/card-04-reporting-light.svg" width="100%"></picture></td>
+<td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-04-reporting2-dark.svg"><img alt="Reporting automatisé chez Display Interactive : -40 % de temps de reporting" src="./assets/card-04-reporting2-light.svg" width="100%"></picture></td>
 </tr>
 <tr>
 <td colspan="2"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-05-bpce-dark.svg"><img alt="Services data chez BPCE IT : 3 projets d'innovation livrés en 5 mois" src="./assets/card-05-bpce-light.svg" width="100%"></picture></td>
@@ -41,6 +41,6 @@ Je conçois des agents IA et des automatisations qui répondent à de vrais beso
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg"><img alt="Un poste en automatisation ou management ? Parlons-en." src="./assets/contact-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact2-dark.svg"><img alt="Un poste en automatisation ou management ? Parlons-en." src="./assets/contact2-light.svg" width="100%"></picture>
 
 [LinkedIn](https://linkedin.com/in/michel-cliff-ogoudedji) · [Portfolio](https://cliffiscurious.com)
